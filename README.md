@@ -13,7 +13,7 @@ the region?
 ## Tools
 R
 
-## The Hyperinflatio
+## The Hyperinflation
 Peru's inflation peaked at **7,482% in 1990**, meaning prices rose about
 76x in a single year (roughly 43% per month). After the August 1990
 "Fujishock" stabilization program, inflation fell to 410% in 1991 and
