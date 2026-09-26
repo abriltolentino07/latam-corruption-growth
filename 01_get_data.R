@@ -9,9 +9,10 @@ countries <- c("PE", "MX", "CO", "CL", "BR")
 
 # Indicators we want (name = World Bank code)
 indicators <- c(
-  inflation      = "FP.CPI.TOTL.ZG",   # Inflation, consumer prices (annual %)
+  inflation      = "FP.CPI.TOTL.ZG",    # Inflation, consumer prices (annual %)
   gdp_growth     = "NY.GDP.MKTP.KD.ZG", # GDP growth (annual %)
-  gdp_per_capita = "NY.GDP.PCAP.KD"     # GDP per capita (constant US$)
+  gdp_per_capita = "NY.GDP.PCAP.KD",    # GDP per capita (constant US$)
+  corruption     = "GOV_WGI_CC.EST"     # Control of Corruption (-2.5 to +2.5)
 )
 
 # Download data from 1980 to 2024
