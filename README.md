@@ -36,4 +36,12 @@ Each country had its crisis at a different time, so each one gets its own crisis
 
 ![GDP per capita recovery in five countries](figures/latam_comparison.png)
 
+## How Corrupt Is Each Country?
+
+The World Bank's Control of Corruption score runs from about -2.5 (most corrupt) to +2.5 (least corrupt), with 0 as the world average. Chile is the only one of the five above average, though its score has slipped from 1.59 in 1996 to 1.14 in 2024. Mexico, Peru and Brazil have all gotten worse since the early 2010s: Mexico fell to -0.93, Peru to -0.71 and Brazil from slightly above average to -0.40. Colombia is the exception, improving slowly from -0.52 to -0.28.
+
+![Control of Corruption in five countries](figures/latam_corruption.png)
+
+
 ## Status
+In progress: next step is comparing corruption scores with GDP growth.
