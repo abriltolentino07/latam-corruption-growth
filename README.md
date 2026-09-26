@@ -30,5 +30,10 @@ also played a role.
 
 ![Peru GDP per capita recovery](figures/peru_recovery.png)
 
+## How Does Peru Compare?
+
+Each country had its crisis at a different time, so each one gets its own crisis window. Peru's collapse was by far the deepest and longest: GDP per capita fell 32.5% and took 25 years to recover. Chile, Colombia and Brazil got back to their pre-crisis level in 6 to 8 years. Mexico's 17 years is partly misleading: its GDP per capita was still below its 1981 peak when the 1994 Tequila crisis hit, so that number also includes the 1980s debt crisis.
+
+![GDP per capita recovery in five countries](figures/latam_comparison.png)
+
 ## Status
-In progress: next step is comparing Peru with Mexico, Colombia, Chile, and Brazil.
